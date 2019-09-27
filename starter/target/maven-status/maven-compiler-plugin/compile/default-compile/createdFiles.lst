@@ -1,0 +1,6 @@
+io\backendlabs\starter\controller\DashboardController.class
+io\backendlabs\starter\tiles\ApplicationInitializer.class
+io\backendlabs\starter\tiles\BeanConfig.class
+io\backendlabs\starter\tiles\WebConfig.class
+io\backendlabs\starter\model\User.class
+io\backendlabs\starter\Application.class
